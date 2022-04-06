@@ -1,0 +1,9 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+form{
+    background: rgb(228, 101, 101);
+    margin: auto;
+    display: flex;
+    width: 220px;
+}
